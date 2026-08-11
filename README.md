@@ -36,4 +36,9 @@ uv python install
 uv init
 ```
 
+**3. Creating virtual environment:**
+
+```bash
+uv venv
+```
 ---
