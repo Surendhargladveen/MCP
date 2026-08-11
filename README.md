@@ -45,6 +45,6 @@ uv venv
 **4. Activate it:**
 
 ```bash
-.venv\Scripts\activate
+.venv\Scripts\activate (e.g.)
 ```
 ---
