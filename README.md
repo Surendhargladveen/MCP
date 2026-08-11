@@ -47,4 +47,10 @@ uv venv
 ```bash
 .venv\Scripts\activate (e.g.)
 ```
+
+**4. Install MCP CLI:**
+
+```bash
+uv add "mcp[cli]"
+```
 ---
