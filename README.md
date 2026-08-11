@@ -41,4 +41,10 @@ uv init
 ```bash
 uv venv
 ```
+
+**4. Activate it:**
+
+```bash
+.venv\Scripts\activate
+```
 ---
