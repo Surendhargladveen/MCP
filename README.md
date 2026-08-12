@@ -45,7 +45,7 @@ uv venv
 **4. Activate it:**
 
 ```bash
-.venv\Scripts\activate (e.g.)
+.venv\Scripts\activate
 ```
 
 **5. Install fastmcp:**
