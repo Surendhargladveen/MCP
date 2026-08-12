@@ -48,9 +48,25 @@ uv venv
 .venv\Scripts\activate (e.g.)
 ```
 
-**4. Install MCP CLI:**
+**5. Install fastmcp:**
+
+```bash
+uv add fastmcp
+```
+
+**6. Install MCP CLI:**
 
 ```bash
 uv add "mcp[cli]"
+```
+**7. Check fastmcp is working:**
+
+```bash
+fastmcp
+```
+**8. Run the mcp inspector:**
+
+```bash
+mcp dev <filename.py>
 ```
 ---
